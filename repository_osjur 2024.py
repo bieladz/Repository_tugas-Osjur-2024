@@ -1,6 +1,6 @@
 print('hello world')
 print('have a nice day')
-Nama = str(input('Nama: Nabila Rasty Azzahra  '))
-Hobi = str(input('Hobi: Mendengarkan lagu '))
+Nama = str(input('Nama: Nabila Rasty Azzahra'))
+Hobi = str(input('Hobi: Mendengarkan lagu'))
 Umur = int(input('Umur: 18'))
 Prodi = str(input('Prodi: Informatika'))
